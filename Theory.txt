@@ -1,0 +1,6 @@
+The live server installed in VS code has websockets.
+You can check in console the the window object has a property of Websockets and it is a function.
+console.log(window.WebSocket)
+o/p: f websocket(url, ?protocols)
+ function with native code.
+
